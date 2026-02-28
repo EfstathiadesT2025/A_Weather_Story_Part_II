@@ -83,7 +83,7 @@ For this project, the following python libraries were used:
 - from tensorflow.keras.layers.convolutional import Conv2DTranspose
 
 # Executing the Code
-The code is available as jupyter notebooks, the scripts can be found in the [Supervised M](url) and [Unsupervised ML]() folders
+The code is available as jupyter notebooks, the scripts can be found in the [Supervised M](https://github.com/EfstathiadesT2025/A_Weather_Story_Part_II/tree/main/Supervised%20ML) and [Unsupervised ML]() folders
 
 # Final Presentation
 Access the final presentation for this project [here](https://)
