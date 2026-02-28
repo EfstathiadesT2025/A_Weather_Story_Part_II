@@ -83,7 +83,7 @@ For this project, the following python libraries were used:
 - from tensorflow.keras.layers.convolutional import Conv2DTranspose
 
 # Executing the Code
-The code is available as jupyter notebooks, open the scripts folder [here]()
+The code is available as jupyter notebooks, the scripts can be found in the [Supervised M](url) and [Unsupervised ML]() folders
 
 # Final Presentation
 Access the final presentation for this project [here](https://)
