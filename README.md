@@ -86,4 +86,4 @@ For this project, the following python libraries were used:
 The code is available as jupyter notebooks, the scripts can be found in the [Supervised M](https://github.com/EfstathiadesT2025/A_Weather_Story_Part_II/tree/main/Supervised%20ML) and [Unsupervised ML](https://github.com/EfstathiadesT2025/A_Weather_Story_Part_II/tree/main/Unsupervised%20ML) folders
 
 # Final Presentation
-Access the final presentation for this project [here](https://)
+Access the final presentation for this project [here](https://github.com/EfstathiadesT2025/A_Weather_Story_Part_II/blob/main/Sent%20to%20client/Final%20Pres_Weather%20Project_Ach%202_ML.pdf)
