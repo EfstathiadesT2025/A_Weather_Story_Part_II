@@ -72,6 +72,15 @@ For this project, the following python libraries were used:
 - from scikeras.wrappers import KerasClassifier
 - from bayes_opt import BayesianOptimization
 - from math import floor
+- from sklearn.metrics import ConfusionMatrixDisplay
+- from tensorflow.keras import Input
+- from tensorflow.keras.models import Model
+- from tensorflow.keras.preprocessing.image import ImageDataGenerator
+- %matplotlib inline
+- from IPython.display import clear_output
+- from tensorflow.keras.layers import Input, GlobalAveragePooling2D, Reshape
+- from tensorflow.keras.models import Model
+- from tensorflow.keras.layers.convolutional import Conv2DTranspose
 
 # Executing the Code
 The code is available as jupyter notebooks, open the scripts folder [here]()
